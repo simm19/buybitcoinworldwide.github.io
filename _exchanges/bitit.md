@@ -8,7 +8,7 @@ thumb: bitit.png
 lang: en
 seotitle: "Bitit Review: Buy Bitcoin online and with cash in 50+ countries"
 website: bitit.gift
-website_url: http://buybitcoinww.co/bitit
+website_url: https://www.bitit.gift?referral=JTWWAIRY
 contribute: bitit
 location: Paris, France
 cat: broker, france
@@ -53,9 +53,9 @@ Bitit allows users to buy Bitcoin online in 10 minutes with a 3D Secure credit /
 </div>
 
 ## Supported Countries
-Available in more than 50 countries, Bitit lets users buy Bitcoin online in the US, Canada, Europe, Oceania and much more. European, Canadian and Australian residents may buy Bitcoin with cash using [Neosurf, Flexepin and Cashlib prepaid vouchers](https://bitit.gift/voucher).
+Available in more than 50 countries, Bitit lets users buy Bitcoin online in the US, Canada, Europe, Oceania and much more. European, Canadian and Australian residents may buy Bitcoin with cash using [Neosurf, Flexepin and Cashlib prepaid vouchers](https://bitit.gift/voucher?referral=JTWWAIRY).
 
-All EU residents may [buy Bitcoin with Neosurf or Cashlib prepaid vouchers](https://bitit.gift/voucher).
+All EU residents may [buy Bitcoin with Neosurf or Cashlib prepaid vouchers](https://bitit.gift/voucher?referral=JTWWAIRY).
 
 ## Privacy
 Users must provide full identity verification, including a selfie, picture of an ID, and proof of residency. However there is no identity verification for the first 25€ online Bitcoin purchase.
